@@ -18,7 +18,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/heart-disease-prediction.git
+   git clone https://github.com/hhdjwdabsxsx/heart-disease-prediction.git
    cd heart-disease-prediction
 2. Install required packages:
    pip install -r requirements.txt
